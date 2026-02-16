@@ -7,6 +7,3 @@ Semester: 4th Semester
 This is the intial work done during the first commit in assignment\_2.
 
 
-
-now i have Edited THIS PORTION---JEEVAN
-
