@@ -1,1 +1,6 @@
 # git_assignment_2
+Name: Greeshmanth Raj Kumar Yeleti
+Roll No.: 2024BCS-085
+Course: B.tech CSE
+Semester: 4th Semester
+This is the intial work done during the first commit in assignment_2.
